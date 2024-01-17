@@ -6,11 +6,9 @@ Este repositório contém os meus primeiros dashboards criados usando a ferramen
 
 - Power BI Web
 
-## Links do Dashboard:
+## Dashboard
 
-- https://app.powerbi.com/view?r=eyJrIjoiNDhkNTA3MWYtNGM2MS00Yjg4LTllZWQtYzQ1NDgxMTI4Yjc5IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9)https://app.powerbi.com/view?r=eyJrIjoiNDhkNTA3MWYtNGM2MS00Yjg4LTllZWQtYzQ1NDgxMTI4Yjc5IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
-
-![Gato Fofo](./img/pedidoscompra.jpg)
+![Dash Pedidos de Compra](img/pedidoscompra.jpg)
 
 
 
