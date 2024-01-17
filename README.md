@@ -8,7 +8,7 @@ Este repositório contém os meus primeiros dashboards criados usando a ferramen
 
 ## Dashboard
 
-![Dash Pedidos de Compra](img/pedidoscompra.jpg)
+![Dash Pedidos de Compra](img/pedidoscompra.png)
 
 
 
