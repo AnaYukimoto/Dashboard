@@ -12,4 +12,6 @@ Este repositório contém os meus primeiros dashboards criados usando a ferramen
 ![Dash Projetos](/dashboard/img/projetos.png)
 
 
+---
+Ana Yukimoto
 
